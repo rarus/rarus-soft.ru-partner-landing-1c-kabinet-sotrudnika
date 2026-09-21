@@ -13,9 +13,9 @@
 	font-style: normal;
 	font-weight: 600;
 	font-display: swap;
-	src: url("../fonts/Rubik/Rubik-Semibold.woff2") format("woff2"),
-	url("../fonts/Rubik/Rubik-Semibold.woff") format("woff"),
-	url("../fonts/Rubik/Rubik-Semibold.ttf") format("ttf");
+	src: url("../fonts/Rubik/Rubik-SemiBold.woff2") format("woff2"),
+	url("../fonts/Rubik/Rubik-SemiBold.woff") format("woff"),
+	url("../fonts/Rubik/Rubik-SemiBold.ttf") format("ttf");
 }
 
 @font-face {
